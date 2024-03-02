@@ -36,39 +36,54 @@ List the key features of your project.
 - Express.js
 - React
 - Node.js
-- (Add any other technologies or libraries used)
+- EJS
+- CSS
+- JavaScript
+
 
 ## Getting Started
 
-Include instructions for setting up the project locally.
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-- List any software or tools that need to be installed before setting up the project.
+Before you begin, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) - Download and install Node.js
+- [npm](https://www.npmjs.com/) (Node Package Manager) - Included with Node.js installation
+- [MongoDB](https://www.mongodb.com/try/download/community) - Download and install MongoDB
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
-2. Change directory: `cd your-project`
-3. Install dependencies: `npm install`
+1. Clone the repository:
 
-## Usage
+   ```bash
+   git clone https://github.com/your-username/your-project.git
+   ```
 
-Explain how to use your application. Include any configuration settings or important details.
+2. Change into the project directory:
+
+   ```bash
+   cd your-project
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Run the application:
+
+   ```bash
+   npm start
+   ```
+
+5. Open your web browser and visit [http://localhost:8080](http://localhost:8080) to see the app running locally.
+
 
 ## Folder Structure
 
-Describe the organization of your project's folders. This can be especially helpful for larger projects.
+This Project uses a MVC(Model , View , Controller) file structure.
 
-## Contributing
-
-Provide guidelines for others who may want to contribute to your project. Include information about the development workflow, coding standards, and how to submit pull requests.
-
-## License
-
-This project is licensed under the [Your License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-Mention and thank any individuals or resources that contributed to your project.
 
