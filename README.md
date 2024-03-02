@@ -76,7 +76,7 @@ Before you begin, ensure you have the following installed:
 4. Run the application:
 
    ```bash
-   npm start
+   node app.js
    ```
 
 5. Open your web browser and visit [http://localhost:8080](http://localhost:8080) to see the app running locally.
