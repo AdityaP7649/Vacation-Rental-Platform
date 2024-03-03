@@ -19,7 +19,10 @@ Vacation Rental Platform
 
 ## Project Description
 
-This vacation rental platform is a robust project developed using the MERN stack, seamlessly integrating MongoDB for efficient CRUD operations, with the database hosted on MongoDB Atlas for optimal scalability. The utilization of EJS templating ensures a dynamic and user-friendly interface, while the implementation of user authentication and authorization through hashing and salting enhances the platform's security. The project follows a well-organized MVC file structure, promoting maintainability and scalability. Users can effortlessly create, edit, and delete listings, fostering a seamless experience in managing their rental properties. The inclusion of review functionalities, including the ability to add and delete reviews, enriches the user experience by providing valuable insights. The visually appealing and responsive UI enhances accessibility and engagement, making the platform attractive to a wide range of users. Finally, the project is successfully hosted on Render, ensuring its availability and reliability in the online space.
+The Vacation rental platform can be used by users to effortlessly manage their rental properties by creating, Editing, Viewing, and Deleting the listings.
+The project's dynamic interface is crafted using EJS templating, ensuring a user-friendly experience. Security is prioritized with user authentication and authorization through hashing and salting. In this project, MongoDB is seamlessly integrated for efficient CRUD operations, which is then hosted on MongoDB Atlas for optimal scalability.
+The project boasts a well-organized MVC file structure for easy maintenance and scalability. The Project includes review functionalities, allowing users to add and delete reviews for valuable insights.
+The visually appealing and responsive UI enhances accessibility and engagement, making the platform attractive to a diverse user base. The project is successfully hosted on Render, ensuring availability and reliability in the online space.
 
 ## Features
 
