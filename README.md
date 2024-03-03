@@ -23,7 +23,7 @@ This vacation rental platform is a robust project developed using the MERN stack
 
 ## Features
 
-Our vacation rental platform, inspired by services like Airbnb, encompasses a range of robust features to enhance the user experience:
+The vacation rental platform, inspired by services like Airbnb, encompasses a range of robust features to enhance the user experience:
 
 - **User Authentication:**
   - Secure user authentication system with login, logout, and signup functionalities.
