@@ -129,6 +129,7 @@ body  {
 
 .login-box{
     margin-top: 5rem;
+    margin-left: 55rem;
     height: 400px;
     width: 400px;
     background-color: white; 
@@ -138,6 +139,7 @@ body  {
 
 .signup-box{
     margin-top: 5rem;
+    margin-left: 55rem;
     height: 450px;
     width: 400px;
     background-color: white; 
